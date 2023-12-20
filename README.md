@@ -28,6 +28,7 @@ https://github.com/Dramalf/ocr_chatbot/assets/43701793/faadb22d-9328-4747-a331-2
 ## Notes
 * Make sure to have the necessary permissions and access to the chat application's user interface elements.
 * This application is intended for local server deployment and is not required for application message API access.
+* Optional llm-chat-api: https://www.secondstate.io/articles/wizardcoder-python-7b/
 
 
 
